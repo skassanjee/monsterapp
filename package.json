@@ -2,7 +2,7 @@
   "name": "monsterapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skassanjee.github.io/monstersapp",
+  "homepage": "https://skassanjee.github.io/monsterapp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
